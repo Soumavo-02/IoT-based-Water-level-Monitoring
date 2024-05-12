@@ -1,6 +1,4 @@
 # IoT-based-Water-level-Monitoring
-Water level monitoring using IOT
-
 
 Our project is an innovative solution for water level monitoring and control in tanks. It utilizes an ultrasonic sensor to measure the water level, sending the data to a microcontroller for processing. The water level is continuously displayed on an LCD screen for easy monitoring.
 
